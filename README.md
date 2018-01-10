@@ -18,3 +18,4 @@
 ### 降维算法
 1. pca
 2. relief
+3. tsne显示cluster
